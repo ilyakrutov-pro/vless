@@ -1,4 +1,4 @@
-#profile-title: VLESS HELP! Yandex 15.04.26
+#profile-title: VLESS HELP! Yandex
 #profile-update-interval:12
 #support-url:https://t.me/ilyakrutov_c
 #profile-web-page-url:https://t.me/ilyakrutov_c
