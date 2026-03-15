@@ -2,5 +2,5 @@
 #profile-update-interval:1
 #support-url:https://t.me/ilyakrutov_c
 #profile-web-page-url:https://t.me/ilyakrutov_c
-#subscription-userinfo: upload=0; download=0; total=10; expire=0
+#subscription-userinfo: upload=25; download=35; total=0; expire=31
 vless://4859d303-439e-4ce3-864b-8943ce6b4bfc@158.160.85.235:443?security=reality&encryption=none&pbk=xRngfH8gpVvY2tHZM6rWqRRNuBQjVQsYG-_gq6675Q4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=784262878335#%F0%9F%87%B7%F0%9F%87%BA+YandexWL
