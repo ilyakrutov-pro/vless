@@ -1,5 +1,5 @@
 #profile-title: VLESS HELP! Yandex 15.04.26
-#profile-update-interval:1
+#profile-update-interval:12
 #support-url:https://t.me/ilyakrutov_c
 #profile-web-page-url:https://t.me/ilyakrutov_c
 #announce: Хостинг оплачен до 15 апреля 2026 года. Стоимость подписки зависит от количества людей которые им пользуются. На данный момент используют 3 человека: 328 руб. Общая стоимость 983.30 руб. Спасибо!
