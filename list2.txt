@@ -2,6 +2,6 @@
 #profile-update-interval:12
 #support-url:https://t.me/ilyakrutov_c
 #profile-web-page-url:https://t.me/ilyakrutov_c
-#announce: Хостинг оплачен до 15 апреля 2026 года. Стоимость подписки зависит от количества людей которые им пользуются. На данный момент используют 4 человека: 250 руб. Общая стоимость 1000 руб/мес. Спасибо!
+#announce: У ВАС ГОСТЕВАЯ ССЫЛКА! ОБРАТИТЕСЬ В ПОДДЕРЖКУ! Хостинг оплачен до 15 апреля 2026 года. Стоимость подписки зависит от количества людей которые им пользуются. На данный момент используют 4 человека: 250 руб. Общая стоимость 1000 руб/мес. Спасибо!
 #subscription-userinfo: expire=1776257368
 vless://4859d303-439e-4ce3-864b-8943ce6b4bfc@158.160.85.235:443?security=reality&encryption=none&pbk=xRngfH8gpVvY2tHZM6rWqRRNuBQjVQsYG-_gq6675Q4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=784262878335#%F0%9F%87%B7%F0%9F%87%BA+YandexWL
